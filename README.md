@@ -2,4 +2,4 @@
 
 Fetches source code from any selected url.
 
-![Here's a gif!](https://github.com/gopal131072/Fetch-from-URL/blob/master/img/a.gif)
+![Here's a gif!](https://raw.githubusercontent.com/gopal131072/Fetch-from-URL/master/img/a.gif)
