@@ -1,0 +1,18 @@
+{
+  "name": "fetch-from-url",
+  "main": "./lib/fetch-from-url",
+  "version": "0.0.0",
+  "description": "Fetch source code from any given url",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "fetch-from-url:fetch"
+  },
+  "repository": "https://github.com/gopal131072/fetch-from-url",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}

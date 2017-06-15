@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch from URL",
+        "command": "fetch-from-url:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Fetch from URL",
+          "submenu": [
+            {
+              "label": "Fetch",
+              "command": "fetch-from-url:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
