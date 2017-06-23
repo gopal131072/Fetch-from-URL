@@ -1,7 +1,7 @@
 {
   "name": "fetch-from-url",
   "main": "./lib/fetch-from-url",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fetch source code from any given url",
   "keywords": [],
   "activationCommands": {
